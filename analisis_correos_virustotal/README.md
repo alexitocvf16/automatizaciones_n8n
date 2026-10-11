@@ -42,3 +42,7 @@ Dentro de los nodos, debes reemplazar los correos genéricos por tus direcciones
 - n8n (versión 1.0+ recomendada).
 - Cuenta de Google Cloud (para generar las credenciales OAuth2 de la API de Gmail).
 - Cuenta en VirusTotal (API Key).
+
+
+<img width="1656" height="754" alt="Captura de pantalla 2026-10-11 113821" src="https://github.com/user-attachments/assets/4144f37f-0165-4f2c-9cb0-fa36548a4785" />
+
